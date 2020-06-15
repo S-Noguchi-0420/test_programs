@@ -1,3 +1,5 @@
+from util.fizzbuzz import fzbz
+
 def main():
     msg = "1から100までの自然数nについて、\n"\
         + "　・nが3の倍数のとき、Fizzを出力する\n"\
@@ -7,14 +9,8 @@ def main():
     print(msg)
 
     for i in range(1, 101):
-        if i % 15 == 0:
-            print("FizzBuzz")
-        elif i % 3 == 0:
-            print("Fizz")
-        elif i % 5 == 0:
-            print("Buzz")
-        else:
-            print(i)
+        #別プログラムにしてみる
+        fzbz(i)
 
     print("\n終わりです！")
 
