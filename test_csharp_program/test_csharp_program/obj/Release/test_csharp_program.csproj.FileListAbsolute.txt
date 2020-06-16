@@ -1,0 +1,6 @@
+D:\reposit\test_csharp_program\test_csharp_program\bin\Release\test_csharp_program.exe.config
+D:\reposit\test_csharp_program\test_csharp_program\bin\Release\test_csharp_program.exe
+D:\reposit\test_csharp_program\test_csharp_program\bin\Release\test_csharp_program.pdb
+D:\reposit\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.csproj.CoreCompileInputs.cache
+D:\reposit\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.exe
+D:\reposit\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.pdb
