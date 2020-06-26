@@ -4,3 +4,9 @@ D:\reposit\test_csharp_program\test_csharp_program\bin\Release\test_csharp_progr
 D:\reposit\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.csproj.CoreCompileInputs.cache
 D:\reposit\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.exe
 D:\reposit\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.pdb
+C:\Users\vri\Desktop\repository\test_programs\test_csharp_program\test_csharp_program\bin\Release\test_csharp_program.exe.config
+C:\Users\vri\Desktop\repository\test_programs\test_csharp_program\test_csharp_program\bin\Release\test_csharp_program.exe
+C:\Users\vri\Desktop\repository\test_programs\test_csharp_program\test_csharp_program\bin\Release\test_csharp_program.pdb
+C:\Users\vri\Desktop\repository\test_programs\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.csproj.CoreCompileInputs.cache
+C:\Users\vri\Desktop\repository\test_programs\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.exe
+C:\Users\vri\Desktop\repository\test_programs\test_csharp_program\test_csharp_program\obj\Release\test_csharp_program.pdb

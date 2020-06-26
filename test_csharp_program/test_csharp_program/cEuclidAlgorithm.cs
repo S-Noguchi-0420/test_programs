@@ -31,7 +31,7 @@ namespace test_csharp_program {
         }
 
         /// <summary>
-        /// mとnの最小公倍数を求める<br />
+        /// mとnの最小公倍数を求める
         /// </summary>
         /// <param name="m">0以上の整数</param>
         /// <param name="n">0以上の整数</param>
