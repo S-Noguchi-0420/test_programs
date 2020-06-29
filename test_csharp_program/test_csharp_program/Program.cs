@@ -16,7 +16,7 @@ namespace test_csharp_program {
         static void Main(string[] args) {
             ulong m = 0;
             ulong n = 0;
-            string errMsg = "コマンドライン引数には、2つの整数値(負の数不可)を指定してください！";
+            string errMsg = "コマンドライン引数には、2つの整数値(負の数不可)を指定してね！";
 
             if (args.Length != 2) {
                 //コマンドライン引数が2つでない場合、エラーで終了
@@ -40,7 +40,7 @@ namespace test_csharp_program {
             if (m != 0 || n != 0) {
                 Console.WriteLine(msg + "最大公約数 : " + oEuclid.getGCD(m, n));
             } else {
-                Console.WriteLine(msg + "最大公約数は求められません！");
+                Console.WriteLine(msg + "最大公約数は求めらないよ！");
             }
 
             Console.WriteLine(msg + "最小公倍数 : " + oEuclid.getLCM(m, n));
