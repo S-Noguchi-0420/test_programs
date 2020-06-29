@@ -12,6 +12,7 @@ namespace test_csharp_program
 
         public cYamadaTest()
         {
+            //初期化
             aaa = 1;
         }
 
