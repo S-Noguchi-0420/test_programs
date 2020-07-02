@@ -1,5 +1,6 @@
 from util.fizzbuzz import fzbz
 
+
 def main():
     msg = "1から100までの自然数nについて、\n"\
         + "　・nが3の倍数のとき、Fizzを出力する\n"\
